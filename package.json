@@ -1,11 +1,11 @@
 {
-    "title": "Project-structure",
-    "name": "project-structure",
+    "title": "Mohsin-Razzaq-Portolio-website",
+    "name": "Mohsin-Portfolio",
     "version": "5.1.4",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Project structure with bootstrap4.",
+    "description": "Portfolio website for Mohsin Razzaq.",
     "keywords": [
         "css",
         "sass",
