@@ -203,7 +203,17 @@ input.input100 {
   padding: 0 30px 0 50px;
 }
 
+input.input100[name="name"] {
+  padding: 0 30px 0 54px;
+}
+
+
 input.input100[name="email"] {
+  padding: 0 30px 0 54px;
+}
+
+
+input.input100[name="subject"] {
   padding: 0 30px 0 54px;
 }
 
