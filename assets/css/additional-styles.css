@@ -4,6 +4,16 @@
 .image img{
 height: 250px;
 width: 200px !important;
-margin-left: 35%;
 
+}
+
+.fit{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+/* footer styles  */
+
+.footer h3 {
+    color: white !important;
 }
